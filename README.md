@@ -1,5 +1,5 @@
 ### I am a student at Blue Ridge Community College who will be majoring in Computer Science and Mechanical Engineering.
-### I am proficient at coding in Java, Python, HTML, CSS, JavaScript, C++, C#, C, and VTL.
+### I am proficient at coding in Java, C#, and C++. I am also quite familiar with Python, HTML, CSS, JavaScript, C, and VTL.
 
 
 Contact: wlmorgan2001@gmail.com
